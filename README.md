@@ -1,8 +1,8 @@
 # Midnight Heist
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/c/best-heist-game-20261122-0559)
-[![Bounty $50](https://make.fun/badge-bounty.svg)](https://make.fun/c/best-heist-game-20261122-0559)
-[![Play it](https://make.fun/badge-play.svg)](https://make.fun/c/best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/rektPanda/heist-game-20261122/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/rektPanda/heist-game-20261122/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 A stealth top-down heist game. Slip through three rooms — The Gallery, the
 Bank Floor and the Diamond Vault — take every loot, and reach the exit
